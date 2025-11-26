@@ -9,3 +9,4 @@ Antes de rodar o projeto, certifique-se de isntalar o numpy e o matplotlib
 # Como utilizar
 Para rodar o projeto python basta apertar no play ou rodar o comando  
 #### python perceptron.py
+Quando estiver utilizando números decimais utilize ponto "." não virgula ","
